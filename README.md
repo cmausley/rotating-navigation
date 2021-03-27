@@ -17,8 +17,9 @@ This webpage allows the user to create a webpage which rotates when you select t
 
 ## Final Product
 
-![sample of project]()
-![video sample of project]()
+![sample of project](./attachments/Capture.PNG)
+![sample of project](./attachments/Capture1.PNG)
+![video sample of project](./attachments/Rotating-Navigation-and-7-more-p.gif)
 
 ## Technologies
 
